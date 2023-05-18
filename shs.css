@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color:
+}
+header {
+  background-color: hsl(263, 36%, 16%);
+  position: fixed
+  border-bottom: 1px solid #666666;
+  z-index: 5;
+  height: 90px;
+}
+.menu-full-navbar {
+         position: fixed;
+         top:0;
+         left:0;
+         background-color: #251a37;
+         width: 100%;
+         
+}
+.main-bar {
+}
+.nav-menu {
+    display: flex;
+    list-style: none;
+    
+    
+}
+.nav-menu li {
+    text-decoration: none;
+    padding: 15px;
+}
+.menu-clearfix {
+               display: flex;
+              
+               line-height: 80px;
+               justify-content: space-between;
+}
+.logo {
+               font-size: 36px;
+               display: block;
+               float: left;
+}
+.extra-nav {
+  display: flex;
+  float: right;
+
+
+}
+.sx-case-study-bx-2 {
+    padding: 0px 75px;
+}
+.row-mb-30 {
+    margin-bottom: 30px;
+}
+.col-lg-3-col-lg-4 {
+    flex: 0 0 auto;
+    width: 25%;
+}
+.col-lg-6-col-lg-4 {
+    flex: 0 0 auto;
+    width: 50%;
+}
+
+
