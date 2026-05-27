@@ -15,20 +15,42 @@
 
 ## 🧭 About Me
 
-<table align="center" width="100%" style="background: #FFF8F0; border-radius: 16px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-   <tr>
-    <td align="center" width="50%" style="padding: 12px;">⚡</td>
-    <td style="padding: 12px;"><b>Backend architecture</b> – clean, fast, reliable</td>
-    <td align="center" width="50%" style="padding: 12px;">🧠</td>
-    <td style="padding: 12px;"><b>AI Agents & Automation</b> – the future is now</td>
-   </tr>
-   <tr>
-    <td align="center" style="padding: 12px;">🔥</td>
-    <td style="padding: 12px;"><b>Real‑time applications</b> – instant, smooth, alive</td>
-    <td align="center" style="padding: 12px;">🎯</td>
-    <td style="padding: 12px;"><b>Scalable systems</b> – grow without limits</td>
-   </tr>
-</table>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+    
+    <!-- Card 1 -->
+    <div style="flex: 1; min-width: 220px; background: linear-gradient(135deg, #FFF8F0, #FFF3E8); border-radius: 20px; padding: 20px 16px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid rgba(194, 126, 90, 0.15); transition: transform 0.2s, box-shadow 0.2s;">
+      <div style="font-size: 36px; margin-bottom: 10px;">⚡</div>
+      <div style="font-weight: 700; color: #C27E5A; margin-bottom: 8px; font-size: 18px;">Backend</div>
+      <div style="font-size: 13px; color: #8B5E3C; line-height: 1.5;">Clean, fast, reliable architecture</div>
+    </div>
+    
+    <!-- Card 2 -->
+    <div style="flex: 1; min-width: 220px; background: linear-gradient(135deg, #FFF8F0, #FFF3E8); border-radius: 20px; padding: 20px 16px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid rgba(194, 126, 90, 0.15);">
+      <div style="font-size: 36px; margin-bottom: 10px;">🧠</div>
+      <div style="font-weight: 700; color: #C27E5A; margin-bottom: 8px; font-size: 18px;">AI Agents</div>
+      <div style="font-size: 13px; color: #8B5E3C; line-height: 1.5;">Automation & intelligent systems</div>
+    </div>
+    
+    <!-- Card 3 -->
+    <div style="flex: 1; min-width: 220px; background: linear-gradient(135deg, #FFF8F0, #FFF3E8); border-radius: 20px; padding: 20px 16px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid rgba(194, 126, 90, 0.15);">
+      <div style="font-size: 36px; margin-bottom: 10px;">🔥</div>
+      <div style="font-weight: 700; color: #C27E5A; margin-bottom: 8px; font-size: 18px;">Real-time</div>
+      <div style="font-size: 13px; color: #8B5E3C; line-height: 1.5;">Instant, smooth, alive apps</div>
+    </div>
+    
+    <!-- Card 4 -->
+    <div style="flex: 1; min-width: 220px; background: linear-gradient(135deg, #FFF8F0, #FFF3E8); border-radius: 20px; padding: 20px 16px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid rgba(194, 126, 90, 0.15);">
+      <div style="font-size: 36px; margin-bottom: 10px;">🎯</div>
+      <div style="font-weight: 700; color: #C27E5A; margin-bottom: 8px; font-size: 18px;">Scalable</div>
+      <div style="font-size: 13px; color: #8B5E3C; line-height: 1.5;">Systems that grow without limits</div>
+    </div>
+    
+  </div>
+</div>
+
+<br>
+
 
 ## 🛠️ Tech Stack
 
