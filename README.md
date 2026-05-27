@@ -114,19 +114,3 @@
   <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=8B5E3C" /></a>
 </div>
 
----
-
-<div align="center">
-  <pre style="font-size: 10px; line-height: 1.2; color: #C27E5A; margin: 0;">
-┌─────────────────────┐
-│  ██╗  ██╗██╗███╗ ██╗
-│  ██║  ██║██║████╗ ██║
-│  ███████║██║██╔██╗██║
-│  ██╔══██║██║██║╚████║
-│  ██║  ██║██║██║ ╚███║
-│  ╚═╝  ╚═╝╚═╝╚═╝  ╚══╝
-│   Code · Build · Opt │
-└─────────────────────┘
-  </pre>
-  <p style="color: #C27E5A; margin: 4px 0;">~ No fluff. Just craft ~</p>
-</div>
