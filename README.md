@@ -1,12 +1,4 @@
-<h2 align="center" style="color: #C27E5A; font-family: 'Georgia', serif; margin: 10px 0 0;">✨ Thinh Vo</h2>
-<p align="center" style="color: #8B5E3C; font-size: 16px; margin-top: -8px;">
-  🚀 Full‑stack Developer · 🤖 AI Builder
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vovanthinh1208&color=C27E5A&style=flat-square" />
-  <img src="https://img.shields.io/badge/⚡_Status-Coding-C27E5A?style=flat-square" />
-</p>
 
 ## 🧭 About Me
 
@@ -53,40 +45,37 @@
 
 <div align="center">
   
-  <div style="background: #FFF8F0; border-radius: 20px; padding: 20px; width: 75%; text-align: left;">
-    
-    <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-      <div style="font-size: 48px;">🎮</div>
-      <div style="flex: 1;">
-        <h3 style="color: #C27E5A; margin: 0;">Commerce Clash</h3>
-        <p style="color: #8B5E3C; margin: 5px 0;">⚡ Real‑time sales battle platform</p>
-        <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px;">
-          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px;">Zoom SDK</span>
-          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px;">WebSocket</span>
-          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px;">Stripe</span>
+  <div style="background: #FFF8F0; border-radius: 20px; padding: 20px; width: 70%; margin-bottom: 12px; text-align: left;">
+    <div style="display: flex; align-items: center; gap: 15px;">
+      <span style="font-size: 45px;">🎮</span>
+      <div>
+        <b style="color: #C27E5A; font-size: 18px;">Commerce Clash</b>
+        <span style="color: #8B5E3C; font-size: 13px; margin-left: 10px;">⚡ Real‑time sales battle</span>
+        <div style="margin-top: 6px;">
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 2px 10px; border-radius: 15px; font-size: 11px;">Zoom SDK</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 2px 10px; border-radius: 15px; font-size: 11px;">WebSocket</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 2px 10px; border-radius: 15px; font-size: 11px;">Stripe</span>
         </div>
       </div>
     </div>
-    
-    <div style="height: 1px; background: #E8D5C0; margin: 15px 0;"></div>
-    
-    <div style="display: flex; align-items: center; gap: 20px;">
-      <div style="font-size: 48px;">🤖</div>
-      <div style="flex: 1;">
-        <h3 style="color: #C27E5A; margin: 0;">AI Recruiting Agent</h3>
-        <p style="color: #8B5E3C; margin: 5px 0;">🧠 AI‑powered recruitment workflow</p>
-        <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px;">
-          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px;">OpenAI API</span>
-          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px;">NLP</span>
-          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px;">Automation</span>
+  </div>
+  
+  <div style="background: #FFF8F0; border-radius: 20px; padding: 20px; width: 70%; text-align: left;">
+    <div style="display: flex; align-items: center; gap: 15px;">
+      <span style="font-size: 45px;">🤖</span>
+      <div>
+        <b style="color: #C27E5A; font-size: 18px;">AI Recruiting Agent</b>
+        <span style="color: #8B5E3C; font-size: 13px; margin-left: 10px;">🧠 AI recruitment</span>
+        <div style="margin-top: 6px;">
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 2px 10px; border-radius: 15px; font-size: 11px;">OpenAI API</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 2px 10px; border-radius: 15px; font-size: 11px;">NLP</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 2px 10px; border-radius: 15px; font-size: 11px;">Automation</span>
         </div>
       </div>
     </div>
-    
   </div>
   
 </div>
-
 ## 📚 Currently Learning
 
 - 📡 Distributed Systems  
