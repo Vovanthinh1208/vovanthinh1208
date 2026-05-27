@@ -84,13 +84,11 @@
 
 ## 📚 Currently Learning
 
-<div align="center" style="background: #FFF8F0; border-radius: 24px; padding: 16px 24px; width: 65%;">
-  <table style="width: 100%;">
-    <tr><td style="padding: 4px;">📡 Distributed Systems</td><td width="60%"><div style="background:#E8D5C0; border-radius:12px; height:6px;"><div style="background:#C27E5A; width:40%; height:6px; border-radius:12px;"></div></div></td><td style="color:#8B5E3C;">40%</td></tr>
-    <tr><td style="padding: 4px;">⚙️ AI Infrastructure</td><td width="60%"><div style="background:#E8D5C0; border-radius:12px; height:6px;"><div style="background:#C27E5A; width:35%; height:6px; border-radius:12px;"></div></div></td><td style="color:#8B5E3C;">35%</td></tr>
-    <tr><td style="padding: 4px;">🧩 Advanced React Patterns</td><td width="60%"><div style="background:#E8D5C0; border-radius:12px; height:6px;"><div style="background:#C27E5A; width:60%; height:6px; border-radius:12px;"></div></div></td><td style="color:#8B5E3C;">60%</td></tr>
-  </table>
-</div>
+- 📡 Distributed Systems  
+- ⚙️ AI Infrastructure  
+- 🧩 Advanced React Patterns  
+- 🏗 Scalable Backend Architecture  
+- 🤖 AI Agents & Automation  
 
 ## 📊 GitHub Stats
 
