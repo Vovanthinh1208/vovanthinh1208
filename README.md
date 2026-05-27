@@ -54,7 +54,7 @@ Advanced React ▰▰▰▰▰▰▰▰▰▰ 60%
 ### ✦ GitHub Stats
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Vovanthinh1208&show_icons=true&theme=gruvbox&title_color=C27E5A&icon_color=C27E5A&text_color=8B5E3C&bg_color=FFF8F0" />
+
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vovanthinh1208&theme=gruvbox&ring=C27E5A&fire=C27E5A&currStreakLabel=C27E5A&sideLabels=8B5E3C&dates=8B5E3C&background=FFF8F0" />
 </div>
 
