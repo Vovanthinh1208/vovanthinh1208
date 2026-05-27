@@ -1,3 +1,14 @@
+<h2 align="center" style="color: #C27E5A; font-family: 'Georgia', serif; margin: 10px 0 0;">✨ Thinh Vo</h2>
+<p align="center" style="color: #8B5E3C; font-size: 16px; margin-top: -8px;">
+  🚀 Full‑stack Developer · 🤖 AI Builder
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vovanthinh1208&color=C27E5A&style=flat-square" />
+  <img src="https://img.shields.io/badge/⚡_Status-Coding-C27E5A?style=flat-square" />
+</p>
+
+---
 
 
 ## 🧭 About Me
