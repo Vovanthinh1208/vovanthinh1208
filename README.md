@@ -1,45 +1,56 @@
-👋 Hi, I'm Thinh Vo
+👋 Hey, I'm Thinh Vo
+Full-stack Developer • AI Builder • System Architect
+Building scalable products, real-time experiences, and intelligent platforms.
+🚀 About Me
 
-🚀 Full-stack Developer passionate about building scalable web applications, AI-powered systems, and real-time platforms.
+I'm passionate about crafting high-performance web applications, AI-powered systems, and real-time platforms that solve complex problems.
 
-I enjoy working with modern technologies like React, NestJS, Prisma, PostgreSQL, and AI integrations. Currently focused on improving system architecture, complex logic handling, and building impactful products.
+I enjoy turning ambitious ideas into production-ready products using modern technologies and clean architecture.
 
+Currently focused on:
+
+⚡ Advanced System Design
+🧠 AI Agents & Automation
+🎯 Complex Logic Processing
+🔥 Real-time Multiplayer Systems
+🏗 Scalable Backend Architecture
 🛠 Tech Stack
 Frontend
-React
-TypeScript
-Tailwind CSS
-Next.js
-Socket.io Client
+React • TypeScript • Next.js
+Tailwind CSS • Socket.io • Framer Motion
 Backend
-NestJS
-Node.js
-Prisma ORM
-PostgreSQL
-REST API
-WebSocket
+NestJS • Node.js • Prisma ORM
+PostgreSQL • REST API • WebSocket
 Tools & Services
-Docker
-Git & GitHub
-Supabase
-Stripe
-Zoom SDK
-OpenAI API
+Docker • Git & GitHub • Stripe
+Supabase • Zoom SDK • OpenAI API
 🔥 Featured Projects
 🎮 Commerce Clash
 
-Real-time sales battle platform integrated with Zoom SDK.
+Real-time competitive sales platform integrated with Zoom SDK.
 
-Multiplayer competition system
-Real-time leaderboard
-Stripe payment integration
-WebSocket architecture
-AI-powered recruitment/game mechanics
+Highlights
+⚔ Multiplayer competition system
+📈 Live leaderboard & analytics
+💳 Stripe payment integration
+🔌 WebSocket-powered realtime engine
+🤖 AI recruitment & gameplay mechanics
+Built for performance, interaction, and scalability.
 🤖 AI Recruiting Agent
 
-AI system that automates candidate screening and recruitment workflows.
+AI-powered recruitment automation platform.
 
-Resume analysis
-AI interview workflows
-Talent scoring system
-Modern dashboard UI
+Features
+📄 Resume analysis system
+🎙 AI interview workflows
+🧠 Talent scoring engine
+📊 Modern recruiter dashboard
+Reducing hiring friction with intelligent automation.
+🌱 Current Focus
+• Distributed Systems
+• AI Infrastructure
+• High-performance Backend Design
+• Advanced React Logic Patterns
+• Product Engineering
+📫 Connect With Me
+GitHub: Vovanthinh1208 GitHub
