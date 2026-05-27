@@ -46,13 +46,35 @@
 </p>
 ### ✦ Featured Projects
 
-**🎮 Commerce Clash** – *Real-time sales battle platform*  
-`Zoom SDK` • `WebSocket` • `Stripe`
-
-**🤖 AI Recruiting Agent** – *AI-powered recruitment workflow*  
-`OpenAI API` • `NLP` • `Automation`
-
----
+<div align="center">
+  <div style="display: inline-block; width: 45%; background: linear-gradient(145deg, #FFF8F0, #FFF0E4); border-radius: 24px; padding: 20px; margin: 10px; box-shadow: 0 8px 20px rgba(0,0,0,0.08);">
+    <div align="center">
+      <span style="font-size: 50px;">🎮</span>
+      <h3 style="color: #C27E5A; margin: 10px 0;">Commerce Clash</h3>
+      <p style="color: #8B5E3C;"><i>Real-time sales battle platform</i></p>
+      <div style="background: #FFF8F0; border-radius: 30px; padding: 10px; margin: 15px 0;">
+        <span style="color: #C27E5A;">⚡</span> Zoom SDK &nbsp;•&nbsp;
+        <span style="color: #C27E5A;">🔌</span> WebSocket &nbsp;•&nbsp;
+        <span style="color: #C27E5A;">💳</span> Stripe
+      </div>
+      <p style="color: #7A4E2D; font-size: 14px;">Live competition arena with integrated video calls and instant payment settlements.</p>
+    </div>
+  </div>
+  
+  <div style="display: inline-block; width: 45%; background: linear-gradient(145deg, #FFF8F0, #FFF0E4); border-radius: 24px; padding: 20px; margin: 10px; box-shadow: 0 8px 20px rgba(0,0,0,0.08);">
+    <div align="center">
+      <span style="font-size: 50px;">🤖</span>
+      <h3 style="color: #C27E5A; margin: 10px 0;">AI Recruiting Agent</h3>
+      <p style="color: #8B5E3C;"><i>AI-powered recruitment workflow</i></p>
+      <div style="background: #FFF8F0; border-radius: 30px; padding: 10px; margin: 15px 0;">
+        <span style="color: #C27E5A;">🧠</span> OpenAI API &nbsp;•&nbsp;
+        <span style="color: #C27E5A;">📊</span> NLP &nbsp;•&nbsp;
+        <span style="color: #C27E5A;">⚡</span> Automation
+      </div>
+      <p style="color: #7A4E2D; font-size: 14px;">Intelligent resume parsing and candidate scoring that automates screening.</p>
+    </div>
+  </div>
+</div>
 ### ✦ Currently Learning
 
 <div style="background: #FFF8F0; padding: 20px; border-radius: 16px;">
