@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/⚡_Status-Coding-C27E5A?style=flat-square" />
 </p>
 
----
-
 ## 🧭 About Me
 
 <table align="center" width="100%">
@@ -26,8 +24,6 @@
     <td><b>Scalable systems</b> – grow without limits</td>
   </tr>
 </table>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -54,8 +50,6 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&color=FFF3E8" />
 </p>
 
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -70,7 +64,6 @@
         <code style="background: #F0E4D8; padding: 2px 8px; border-radius: 16px; font-size: 12px;">Stripe</code>
       </td>
     </tr>
-    <tr><td colspan="2" style="padding: 0;"><hr style="border: none; border-top: 1px solid #E8D5C0; margin: 6px 0;"></td></tr>
     <tr>
       <td align="center" style="font-size: 40px;">🤖</td>
       <td align="left">
@@ -84,27 +77,21 @@
   </table>
 </div>
 
----
-
 ## 📚 Currently Learning
 
 <div align="center" style="background: #FFF8F0; border-radius: 24px; padding: 16px 24px; width: 65%;">
   <table style="width: 100%;">
     <tr><td style="padding: 4px;">📡 Distributed Systems</td><td width="60%"><div style="background:#E8D5C0; border-radius:12px; height:6px;"><div style="background:#C27E5A; width:40%; height:6px; border-radius:12px;"></div></div></td><td style="color:#8B5E3C;">40%</td></tr>
-    <tr><td style="padding: 4px;">⚙️ AI Infrastructure</td><td><div style="background:#E8D5C0; border-radius:12px; height:6px;"><div style="background:#C27E5A; width:35%; height:6px; border-radius:12px;"></div></div></td><td style="color:#8B5E3C;">35%</td></tr>
-    <tr><td style="padding: 4px;">🧩 Advanced React Patterns</td><td><div style="background:#E8D5C0; border-radius:12px; height:6px;"><div style="background:#C27E5A; width:60%; height:6px; border-radius:12px;"></div></div></td><td style="color:#8B5E3C;">60%</td></tr>
+    <tr><td style="padding: 4px;">⚙️ AI Infrastructure</td><td width="60%"><div style="background:#E8D5C0; border-radius:12px; height:6px;"><div style="background:#C27E5A; width:35%; height:6px; border-radius:12px;"></div></div></td><td style="color:#8B5E3C;">35%</td></tr>
+    <tr><td style="padding: 4px;">🧩 Advanced React Patterns</td><td width="60%"><div style="background:#E8D5C0; border-radius:12px; height:6px;"><div style="background:#C27E5A; width:60%; height:6px; border-radius:12px;"></div></div></td><td style="color:#8B5E3C;">60%</td></tr>
   </table>
 </div>
-
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vovanthinh1208&theme=gruvbox&ring=C27E5A&fire=C27E5A&currStreakLabel=C27E5A&sideLabels=8B5E3C&dates=8B5E3C&background=FFF8F0" />
 </div>
-
----
 
 ## 🔗 Connect
 
@@ -113,4 +100,3 @@
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=8B5E3C" /></a> 
   <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=8B5E3C" /></a>
 </div>
-
