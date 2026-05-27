@@ -53,25 +53,30 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <table style="background: #FFF8F0; border-radius: 24px; padding: 8px; width: 85%;">
+  <table style="background: #FFF8F0; border-radius: 24px; padding: 12px; width: 80%; border-collapse: collapse;">
     <tr>
-      <td align="center" width="70" style="font-size: 40px;">🎮</td>
-      <td align="left">
-        <h3 style="color: #C27E5A; margin: 0;">Commerce Clash</h3>
-        <p style="color: #8B5E3C; margin: 2px 0 6px;">Real‑time sales battle platform</p>
-        <code style="background: #F0E4D8; padding: 2px 8px; border-radius: 16px; font-size: 12px;">Zoom SDK</code> 
-        <code style="background: #F0E4D8; padding: 2px 8px; border-radius: 16px; font-size: 12px;">WebSocket</code> 
-        <code style="background: #F0E4D8; padding: 2px 8px; border-radius: 16px; font-size: 12px;">Stripe</code>
+      <td align="center" width="80" style="font-size: 48px; padding: 16px 0;">🎮</td>
+      <td align="left" style="padding: 16px 16px 16px 0;">
+        <h3 style="color: #C27E5A; margin: 0 0 4px 0; font-family: 'Georgia', serif;">Commerce Clash</h3>
+        <p style="color: #8B5E3C; margin: 0 0 10px 0; font-size: 14px;">⚡ Real‑time sales battle platform</p>
+        <div>
+          <code style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 500;">Zoom SDK</code>
+          <code style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 500;">WebSocket</code>
+          <code style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 500;">Stripe</code>
+        </div>
       </td>
     </tr>
+    <tr><td colspan="2" style="padding: 0 20px;"><div style="border-top: 1px solid #E8D5C0; margin: 4px 0;"></div></td></tr>
     <tr>
-      <td align="center" style="font-size: 40px;">🤖</td>
-      <td align="left">
-        <h3 style="color: #C27E5A; margin: 0;">AI Recruiting Agent</h3>
-        <p style="color: #8B5E3C; margin: 2px 0 6px;">AI‑powered recruitment workflow</p>
-        <code style="background: #F0E4D8; padding: 2px 8px; border-radius: 16px; font-size: 12px;">OpenAI API</code> 
-        <code style="background: #F0E4D8; padding: 2px 8px; border-radius: 16px; font-size: 12px;">NLP</code> 
-        <code style="background: #F0E4D8; padding: 2px 8px; border-radius: 16px; font-size: 12px;">Automation</code>
+      <td align="center" style="font-size: 48px; padding: 16px 0;">🤖</td>
+      <td align="left" style="padding: 16px 16px 16px 0;">
+        <h3 style="color: #C27E5A; margin: 0 0 4px 0; font-family: 'Georgia', serif;">AI Recruiting Agent</h3>
+        <p style="color: #8B5E3C; margin: 0 0 10px 0; font-size: 14px;">🧠 AI‑powered recruitment workflow</p>
+        <div>
+          <code style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 500;">OpenAI API</code>
+          <code style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 500;">NLP</code>
+          <code style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 500;">Automation</code>
+        </div>
       </td>
     </tr>
   </table>
