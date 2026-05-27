@@ -55,31 +55,31 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <div style="display: flex; gap: 25px; justify-content: center; flex-wrap: wrap;">
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
     
-    <div style="background: #FFF8F0; border-radius: 24px; padding: 24px 20px; width: 270px; text-align: center; transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;" 
-         onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(194,126,90,0.15)'"
-         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-      <div style="font-size: 52px; margin-bottom: 8px;">🎮</div>
-      <h3 style="color: #C27E5A; margin: 0 0 6px 0; font-family: 'Georgia', serif; font-size: 20px;">Commerce Clash</h3>
-      <p style="color: #8B5E3C; font-size: 12px; margin: 0 0 14px 0;">⚡ Real‑time sales battle platform</p>
-      <div style="display: flex; gap: 6px; flex-wrap: wrap; justify-content: center;">
-        <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">Zoom SDK</span>
-        <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">WebSocket</span>
-        <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">Stripe</span>
+    <div style="background: #FFF8F0; border-radius: 20px; padding: 20px; width: 280px; text-align: center;">
+      <div style="font-size: 55px; margin-bottom: 12px;">🎮</div>
+      <div>
+        <h3 style="color: #C27E5A; margin: 0 0 5px 0; font-family: 'Georgia', serif;">Commerce Clash</h3>
+        <p style="color: #8B5E3C; font-size: 13px; margin: 0 0 12px 0;">⚡ Real‑time sales battle</p>
+        <div style="display: flex; gap: 6px; flex-wrap: wrap; justify-content: center;">
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">Zoom SDK</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">WebSocket</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">Stripe</span>
+        </div>
       </div>
     </div>
     
-    <div style="background: #FFF8F0; border-radius: 24px; padding: 24px 20px; width: 270px; text-align: center; transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;" 
-         onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(194,126,90,0.15)'"
-         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-      <div style="font-size: 52px; margin-bottom: 8px;">🤖</div>
-      <h3 style="color: #C27E5A; margin: 0 0 6px 0; font-family: 'Georgia', serif; font-size: 20px;">AI Recruiting Agent</h3>
-      <p style="color: #8B5E3C; font-size: 12px; margin: 0 0 14px 0;">🧠 AI‑powered recruitment workflow</p>
-      <div style="display: flex; gap: 6px; flex-wrap: wrap; justify-content: center;">
-        <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">OpenAI API</span>
-        <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">NLP</span>
-        <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">Automation</span>
+    <div style="background: #FFF8F0; border-radius: 20px; padding: 20px; width: 280px; text-align: center;">
+      <div style="font-size: 55px; margin-bottom: 12px;">🤖</div>
+      <div>
+        <h3 style="color: #C27E5A; margin: 0 0 5px 0; font-family: 'Georgia', serif;">AI Recruiting Agent</h3>
+        <p style="color: #8B5E3C; font-size: 13px; margin: 0 0 12px 0;">🧠 AI‑powered recruitment</p>
+        <div style="display: flex; gap: 6px; flex-wrap: wrap; justify-content: center;">
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">OpenAI API</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">NLP</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">Automation</span>
+        </div>
       </div>
     </div>
     
