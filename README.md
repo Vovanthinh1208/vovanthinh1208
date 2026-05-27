@@ -42,11 +42,41 @@
 `OpenAI API` • `NLP` • `Automation`
 
 ---
-
 ### ✦ Currently Learning
-Distributed Systems ▰▰▰▰▰▰▰▰▰▰ 40%
-AI Infrastructure ▰▰▰▰▰▰▰▰▰▰ 35%
-Advanced React ▰▰▰▰▰▰▰▰▰▰ 60%
+
+<div style="background: #FFF8F0; padding: 20px; border-radius: 16px;">
+  
+  <div style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+      <span style="color: #C27E5A; font-weight: 600;">📡 Distributed Systems</span>
+      <span style="color: #8B5E3C;">40%</span>
+    </div>
+    <div style="background: #E8D5C0; border-radius: 20px; height: 10px; overflow: hidden;">
+      <div style="background: #C27E5A; width: 40%; height: 10px; border-radius: 20px;"></div>
+    </div>
+  </div>
+  
+  <div style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+      <span style="color: #C27E5A; font-weight: 600;">⚙️ AI Infrastructure</span>
+      <span style="color: #8B5E3C;">35%</span>
+    </div>
+    <div style="background: #E8D5C0; border-radius: 20px; height: 10px; overflow: hidden;">
+      <div style="background: #C27E5A; width: 35%; height: 10px; border-radius: 20px;"></div>
+    </div>
+  </div>
+  
+  <div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+      <span style="color: #C27E5A; font-weight: 600;">🧩 Advanced React Patterns</span>
+      <span style="color: #8B5E3C;">60%</span>
+    </div>
+    <div style="background: #E8D5C0; border-radius: 20px; height: 10px; overflow: hidden;">
+      <div style="background: #C27E5A; width: 60%; height: 10px; border-radius: 20px;"></div>
+    </div>
+  </div>
+  
+</div>
 
 ---
 
