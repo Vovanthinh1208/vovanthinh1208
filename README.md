@@ -1,5 +1,3 @@
-<!-- Bạn có thể dùng trực tiếp trong README.md (GitHub hỗ trợ HTML) -->
-
 <h2 align="center" style="color: #C27E5A; font-family: 'Georgia', serif; margin: 10px 0 0;">✨ Thinh Vo</h2>
 <p align="center" style="color: #8B5E3C; font-size: 16px; margin-top: -8px;">
   🚀 Full‑stack Developer · 🤖 AI Builder
@@ -61,26 +59,26 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <table style="background: #FFF8F0; border-radius: 28px; padding: 10px; width: 90%;">
+  <table style="background: #FFF8F0; border-radius: 24px; padding: 8px; width: 85%;">
     <tr>
-      <td align="center" width="80" style="font-size: 48px;">🎮</td>
+      <td align="center" width="70" style="font-size: 40px;">🎮</td>
       <td align="left">
         <h3 style="color: #C27E5A; margin: 0;">Commerce Clash</h3>
-        <p style="color: #8B5E3C; margin: 4px 0 8px;">Real‑time sales battle platform</p>
-        <code style="background: #F0E4D8; padding: 2px 10px; border-radius: 20px;">Zoom SDK</code> 
-        <code style="background: #F0E4D8; padding: 2px 10px; border-radius: 20px;">WebSocket</code> 
-        <code style="background: #F0E4D8; padding: 2px 10px; border-radius: 20px;">Stripe</code>
+        <p style="color: #8B5E3C; margin: 2px 0 6px;">Real‑time sales battle platform</p>
+        <code style="background: #F0E4D8; padding: 2px 8px; border-radius: 16px; font-size: 12px;">Zoom SDK</code> 
+        <code style="background: #F0E4D8; padding: 2px 8px; border-radius: 16px; font-size: 12px;">WebSocket</code> 
+        <code style="background: #F0E4D8; padding: 2px 8px; border-radius: 16px; font-size: 12px;">Stripe</code>
       </td>
     </tr>
-    <tr><td colspan="2"><hr style="border-color: #E8D5C0;"></td></tr>
+    <tr><td colspan="2" style="padding: 0;"><hr style="border: none; border-top: 1px solid #E8D5C0; margin: 6px 0;"></td></tr>
     <tr>
-      <td align="center" style="font-size: 48px;">🤖</td>
+      <td align="center" style="font-size: 40px;">🤖</td>
       <td align="left">
         <h3 style="color: #C27E5A; margin: 0;">AI Recruiting Agent</h3>
-        <p style="color: #8B5E3C; margin: 4px 0 8px;">AI‑powered recruitment workflow</p>
-        <code style="background: #F0E4D8; padding: 2px 10px; border-radius: 20px;">OpenAI API</code> 
-        <code style="background: #F0E4D8; padding: 2px 10px; border-radius: 20px;">NLP</code> 
-        <code style="background: #F0E4D8; padding: 2px 10px; border-radius: 20px;">Automation</code>
+        <p style="color: #8B5E3C; margin: 2px 0 6px;">AI‑powered recruitment workflow</p>
+        <code style="background: #F0E4D8; padding: 2px 8px; border-radius: 16px; font-size: 12px;">OpenAI API</code> 
+        <code style="background: #F0E4D8; padding: 2px 8px; border-radius: 16px; font-size: 12px;">NLP</code> 
+        <code style="background: #F0E4D8; padding: 2px 8px; border-radius: 16px; font-size: 12px;">Automation</code>
       </td>
     </tr>
   </table>
@@ -90,13 +88,12 @@
 
 ## 📚 Currently Learning
 
-<div align="center" style="background: #FFF8F0; border-radius: 28px; padding: 20px; width: 70%;">
-
-| 📡 Distributed Systems | ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 40% |
-|:-|:-|
-| ⚙️ AI Infrastructure | ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 35% |
-| 🧩 Advanced React Patterns | ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 60% |
-
+<div align="center" style="background: #FFF8F0; border-radius: 24px; padding: 16px 24px; width: 65%;">
+  <table style="width: 100%;">
+    <tr><td style="padding: 4px;">📡 Distributed Systems</td><td width="60%"><div style="background:#E8D5C0; border-radius:12px; height:6px;"><div style="background:#C27E5A; width:40%; height:6px; border-radius:12px;"></div></div></td><td style="color:#8B5E3C;">40%</td></tr>
+    <tr><td style="padding: 4px;">⚙️ AI Infrastructure</td><td><div style="background:#E8D5C0; border-radius:12px; height:6px;"><div style="background:#C27E5A; width:35%; height:6px; border-radius:12px;"></div></div></td><td style="color:#8B5E3C;">35%</td></tr>
+    <tr><td style="padding: 4px;">🧩 Advanced React Patterns</td><td><div style="background:#E8D5C0; border-radius:12px; height:6px;"><div style="background:#C27E5A; width:60%; height:6px; border-radius:12px;"></div></div></td><td style="color:#8B5E3C;">60%</td></tr>
+  </table>
 </div>
 
 ---
@@ -104,7 +101,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vovanthinh1208&theme=gruvbox&ring=C27E5A&fire=C27E5A&currStreakLabel=C27E5A&sideLabels=8B5E3C&dates=8B5E3C&background=FFF8F0" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vovanthinh1208&theme=gruvbox&ring=C27E5A&fire=C27E5A&currStreakLabel=C27E5A&sideLabels=8B5E3C&dates=8B5E3C&background=FFF8F0" />
 </div>
 
 ---
@@ -120,17 +117,16 @@
 ---
 
 <div align="center">
-  <pre style="font-size: 11px; line-height: 1.3; color: #C27E5A;">
-┌─────────────────────────────────┐
-│  ████████╗██╗  ██╗██╗███╗   ██╗██╗  ██╗
-│  ╚══██╔══╝██║  ██║██║████╗  ██║██║  ██║
-│     ██║   ███████║██║██╔██╗ ██║███████║
-│     ██║   ██╔══██║██║██║╚██╗██║██╔══██║
-│     ██║   ██║  ██║██║██║ ╚████║██║  ██║
-│     ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-│                                         
-│      Code • Build • Optimize           
-└─────────────────────────────────┘
+  <pre style="font-size: 10px; line-height: 1.2; color: #C27E5A; margin: 0;">
+┌─────────────────────┐
+│  ██╗  ██╗██╗███╗ ██╗
+│  ██║  ██║██║████╗ ██║
+│  ███████║██║██╔██╗██║
+│  ██╔══██║██║██║╚████║
+│  ██║  ██║██║██║ ╚███║
+│  ╚═╝  ╚═╝╚═╝╚═╝  ╚══╝
+│   Code · Build · Opt │
+└─────────────────────┘
   </pre>
-  <p style="color: #C27E5A;">✨ ~ No fluff. Just craft ~ ✨</p>
+  <p style="color: #C27E5A; margin: 4px 0;">~ No fluff. Just craft ~</p>
 </div>
