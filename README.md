@@ -49,37 +49,42 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&color=FFF3E8" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&color=FFF3E8" />
 </p>
-
 ## 🌟 Featured Projects
 
 <div align="center">
-  <table style="background: #FFF8F0; border-radius: 24px; padding: 12px; width: 80%; border-collapse: collapse;">
-    <tr>
-      <td align="center" width="80" style="font-size: 48px; padding: 16px 0;">🎮</td>
-      <td align="left" style="padding: 16px 16px 16px 0;">
-        <h3 style="color: #C27E5A; margin: 0 0 4px 0; font-family: 'Georgia', serif;">Commerce Clash</h3>
-        <p style="color: #8B5E3C; margin: 0 0 10px 0; font-size: 14px;">⚡ Real‑time sales battle platform</p>
-        <div>
-          <code style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 500;">Zoom SDK</code>
-          <code style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 500;">WebSocket</code>
-          <code style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 500;">Stripe</code>
+  
+  <div style="background: #FFF8F0; border-radius: 20px; padding: 20px; width: 75%; text-align: left;">
+    
+    <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+      <div style="font-size: 48px;">🎮</div>
+      <div style="flex: 1;">
+        <h3 style="color: #C27E5A; margin: 0;">Commerce Clash</h3>
+        <p style="color: #8B5E3C; margin: 5px 0;">⚡ Real‑time sales battle platform</p>
+        <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px;">
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px;">Zoom SDK</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px;">WebSocket</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px;">Stripe</span>
         </div>
-      </td>
-    </tr>
-    <tr><td colspan="2" style="padding: 0 20px;"><div style="border-top: 1px solid #E8D5C0; margin: 4px 0;"></div></td></tr>
-    <tr>
-      <td align="center" style="font-size: 48px; padding: 16px 0;">🤖</td>
-      <td align="left" style="padding: 16px 16px 16px 0;">
-        <h3 style="color: #C27E5A; margin: 0 0 4px 0; font-family: 'Georgia', serif;">AI Recruiting Agent</h3>
-        <p style="color: #8B5E3C; margin: 0 0 10px 0; font-size: 14px;">🧠 AI‑powered recruitment workflow</p>
-        <div>
-          <code style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 500;">OpenAI API</code>
-          <code style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 500;">NLP</code>
-          <code style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 500;">Automation</code>
+      </div>
+    </div>
+    
+    <div style="height: 1px; background: #E8D5C0; margin: 15px 0;"></div>
+    
+    <div style="display: flex; align-items: center; gap: 20px;">
+      <div style="font-size: 48px;">🤖</div>
+      <div style="flex: 1;">
+        <h3 style="color: #C27E5A; margin: 0;">AI Recruiting Agent</h3>
+        <p style="color: #8B5E3C; margin: 5px 0;">🧠 AI‑powered recruitment workflow</p>
+        <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px;">
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px;">OpenAI API</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px;">NLP</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 12px;">Automation</span>
         </div>
-      </td>
-    </tr>
-  </table>
+      </div>
+    </div>
+    
+  </div>
+  
 </div>
 
 ## 📚 Currently Learning
