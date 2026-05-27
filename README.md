@@ -12,13 +12,10 @@
 
 ### ✦ About Me
 
-| | |
-|---|---|
-| ⚡ | Backend architecture | 
-| 🧠 | AI Agents & Automation |
-| 🔥 | Real-time applications |
-| 🎯 | Scalable systems |
-
+| <span style="font-size:20px;">⚡</span> | **Backend architecture** – *clean, fast, reliable* |
+| <span style="font-size:20px;">🧠</span> | **AI Agents & Automation** – *the future is now* |
+| <span style="font-size:20px;">🔥</span> | **Real-time applications** – *instant, smooth, alive* |
+| <span style="font-size:20px;">🎯</span> | **Scalable systems** – *grow without limits* |
 ---
 
 ### ✦ Tech Stack
