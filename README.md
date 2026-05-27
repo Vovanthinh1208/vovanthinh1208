@@ -1,7 +1,4 @@
 
-<div align="center">
-  <img src="https://via.placeholder.com/140x140/C27E5A/FFFFFF?text=TV" width="140" style="border-radius: 50%; border: 3px solid #C27E5A; filter: sepia(30%); box-shadow: 0 5px 15px rgba(0,0,0,0.1);" />
-</div>
 
 <h2 align="center" style="color: #C27E5A; font-family: Georgia; margin: 10px 0 5px;">Thinh Vo</h2>
 <p align="center" style="color: #8B5E3C; font-size: 16px;">Full-stack Developer · AI Builder</p>
