@@ -1,5 +1,8 @@
-<h2 align="center" style="color: #C27E5A; font-family: 'Georgia', serif; margin: 10px 0 0;">✨ Thinh Vo</h2>
-<p align="center" style="color: #8B5E3C; font-size: 16px; margin-top: -8px;">
+<h2 align="center" style="color: #C27E5A; font-family: 'Georgia', serif; margin: 20px 0 5px;">
+  ✨ Thinh Vo
+</h2>
+
+<p align="center" style="color: #8B5E3C; font-size: 18px; margin-top: -5px; font-weight: 500;">
   🚀 Full‑stack Developer · 🤖 AI Builder
 </p>
 
@@ -10,22 +13,21 @@
 
 ---
 
-
 ## 🧭 About Me
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">⚡</td>
-    <td><b>Backend architecture</b> – clean, fast, reliable</td>
-    <td align="center">🧠</td>
-    <td><b>AI Agents & Automation</b> – the future is now</td>
-  </tr>
-  <tr>
-    <td align="center">🔥</td>
-    <td><b>Real‑time applications</b> – instant, smooth, alive</td>
-    <td align="center">🎯</td>
-    <td><b>Scalable systems</b> – grow without limits</td>
-  </tr>
+<table align="center" width="100%" style="background: #FFF8F0; border-radius: 16px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+   <tr>
+    <td align="center" width="50%" style="padding: 12px;">⚡</td>
+    <td style="padding: 12px;"><b>Backend architecture</b> – clean, fast, reliable</td>
+    <td align="center" width="50%" style="padding: 12px;">🧠</td>
+    <td style="padding: 12px;"><b>AI Agents & Automation</b> – the future is now</td>
+   </tr>
+   <tr>
+    <td align="center" style="padding: 12px;">🔥</td>
+    <td style="padding: 12px;"><b>Real‑time applications</b> – instant, smooth, alive</td>
+    <td align="center" style="padding: 12px;">🎯</td>
+    <td style="padding: 12px;"><b>Scalable systems</b> – grow without limits</td>
+   </tr>
 </table>
 
 ## 🛠️ Tech Stack
@@ -52,46 +54,45 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&color=FFF3E8" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&color=FFF3E8" />
 </p>
+
 ## 🌟 Featured Projects
 
 <div align="center">
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-    
-    <div style="background: #FFF8F0; border-radius: 20px; padding: 20px; width: 280px; text-align: center;">
-      <div style="font-size: 55px; margin-bottom: 12px;">🎮</div>
-      <div>
-        <h3 style="color: #C27E5A; margin: 0 0 5px 0; font-family: 'Georgia', serif;">Commerce Clash</h3>
-        <p style="color: #8B5E3C; font-size: 13px; margin: 0 0 12px 0;">⚡ Real‑time sales battle</p>
-        <div style="display: flex; gap: 6px; flex-wrap: wrap; justify-content: center;">
-          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">Zoom SDK</span>
-          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">WebSocket</span>
-          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">Stripe</span>
+  <table style="margin: 0 auto; border-collapse: separate; border-spacing: 20px;">
+    <tr>
+      <td align="center" style="background: #FFF8F0; border-radius: 24px; padding: 24px 20px; width: 280px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+        <div style="font-size: 55px; margin-bottom: 12px;">🎮</div>
+        <h3 style="color: #C27E5A; margin: 0 0 6px; font-family: 'Georgia', serif;">Commerce Clash</h3>
+        <p style="color: #8B5E3C; font-size: 14px; margin: 0 0 16px;">⚡ Real‑time sales battle</p>
+        <div>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px; display: inline-block; margin: 4px;">Zoom SDK</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px; display: inline-block; margin: 4px;">WebSocket</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px; display: inline-block; margin: 4px;">Stripe</span>
         </div>
-      </div>
-    </div>
-    
-    <div style="background: #FFF8F0; border-radius: 20px; padding: 20px; width: 280px; text-align: center;">
-      <div style="font-size: 55px; margin-bottom: 12px;">🤖</div>
-      <div>
-        <h3 style="color: #C27E5A; margin: 0 0 5px 0; font-family: 'Georgia', serif;">AI Recruiting Agent</h3>
-        <p style="color: #8B5E3C; font-size: 13px; margin: 0 0 12px 0;">🧠 AI‑powered recruitment</p>
-        <div style="display: flex; gap: 6px; flex-wrap: wrap; justify-content: center;">
-          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">OpenAI API</span>
-          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">NLP</span>
-          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px;">Automation</span>
+      </td>
+      <td align="center" style="background: #FFF8F0; border-radius: 24px; padding: 24px 20px; width: 280px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+        <div style="font-size: 55px; margin-bottom: 12px;">🤖</div>
+        <h3 style="color: #C27E5A; margin: 0 0 6px; font-family: 'Georgia', serif;">AI Recruiting Agent</h3>
+        <p style="color: #8B5E3C; font-size: 14px; margin: 0 0 16px;">🧠 AI‑powered recruitment</p>
+        <div>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px; display: inline-block; margin: 4px;">OpenAI API</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px; display: inline-block; margin: 4px;">NLP</span>
+          <span style="background: #E8D5C0; color: #8B5E3C; padding: 4px 12px; border-radius: 20px; font-size: 11px; display: inline-block; margin: 4px;">Automation</span>
         </div>
-      </div>
-    </div>
-    
-  </div>
+      </td>
+    </tr>
+  </table>
 </div>
+
 ## 📚 Currently Learning
 
-- 📡 Distributed Systems  
-- ⚙️ AI Infrastructure  
-- 🧩 Advanced React Patterns  
-- 🏗 Scalable Backend Architecture  
-- 🤖 AI Agents & Automation  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Distributed%20Systems-8B5E3C?style=flat-square&labelColor=FFF3E8&color=8B5E3C" />
+  <img src="https://img.shields.io/badge/-AI%20Infrastructure-8B5E3C?style=flat-square&labelColor=FFF3E8&color=8B5E3C" />
+  <img src="https://img.shields.io/badge/-Advanced%20React%20Patterns-8B5E3C?style=flat-square&labelColor=FFF3E8&color=8B5E3C" />
+  <img src="https://img.shields.io/badge/-Scalable%20Backend%20Architecture-8B5E3C?style=flat-square&labelColor=FFF3E8&color=8B5E3C" />
+  <img src="https://img.shields.io/badge/-AI%20Agents%20%26%20Automation-8B5E3C?style=flat-square&labelColor=FFF3E8&color=8B5E3C" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -102,7 +103,13 @@
 ## 🔗 Connect
 
 <div align="center">
-  <a href="https://github.com/Vovanthinh1208"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=8B5E3C" /></a> 
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=8B5E3C" /></a> 
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=8B5E3C" /></a>
+  <a href="https://github.com/Vovanthinh1208">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=8B5E3C" />
+  </a> 
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=8B5E3C" />
+  </a> 
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=8B5E3C" />
+  </a>
 </div>
