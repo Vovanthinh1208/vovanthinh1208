@@ -1,3 +1,19 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&color=A08060&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=500&height=80&lines=%E2%98%95+Thinh+Vo;%22Old+school+vibe%2C+modern+stack%22" alt="Typewriter effect" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://via.placeholder.com/140x140/C4A882/FFFFFF?text=TV" alt="Thinh Vo" width="140" style="border-radius: 50%; filter: grayscale(80%) contrast(1.1); border: 2px solid #C4A882; opacity: 0.92;" />
+</div>
+
+<h3 align="center" style="color: #6B5B4F; font-weight: 400;">Full-stack Developer · AI Builder</h3>
+<p align="center" style="color: #8B7A6B; font-size: 15px;">crafting scalable web apps, real-time systems, and AI-powered platforms.</p>
+
+---
+
+## ▸ About Me
 
 ---
 
@@ -36,11 +52,56 @@
 
 `Zoom SDK` • `WebSocket` • `Stripe`
 
+Real-time competition platform where sellers battle live with integrated video calls and instant payments.
+
 ### 🤖 AI Recruiting Agent
 > *AI-powered recruitment workflow*
 
 `OpenAI API` • `NLP` • `Automation`
 
+Intelligent resume parsing and candidate scoring system that automates the initial screening process.
+
 ---
 
 ## ▸ Currently Learning
+
+---
+
+## ▸ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vovanthinh1208&show_icons=true&theme=buefy&title_color=A08060&icon_color=B08D6E&text_color=7A6B5D&bg_color=FAFAF8" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vovanthinh1208&theme=buefy&ring=A08060&fire=B08D6E&currStreakLabel=A08060&sideLabels=7A6B5D&dates=9B8A7A" alt="GitHub Streak" />
+</div>
+
+---
+
+## ▸ Connect
+
+<div align="center">
+  <a href="https://github.com/Vovanthinh1208">
+    <img src="https://img.shields.io/badge/GitHub-6B7B6B?style=for-the-badge&logo=github&logoColor=white&color=8B9B8B" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-7A8B8B?style=for-the-badge&logo=linkedin&logoColor=white&color=8A9B9B" />
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-9B8B7A?style=for-the-badge&logo=gmail&logoColor=white&color=AB9B8A" />
+  </a>
+</div>
+
+---
+
+```text
+╭─────────────────────────────────────────────────╮
+│                                                 │
+│     ▄▄▄·  ▄▄▄· ▄▄▄  ▄▄▄ . ▐ ▄ ▄▄▄▄▄ ▄ .▄       │
+│    ▐█ ▀█ ▐█ ▄█▐█ ▀█ ▀▄.▀·•█▌▐█•██  ██▪▐█       │
+│    ▄█▀▀█ ▐█▀▀█▄█▀▀█ ▐▀▀▪▄▐█▐▐▌ ▐█.▪██▀▐█       │
+│    ▐█ ▪▐▌██▄▪▐█▐█ ▪▐▌▐█▄▄▌██▐█▌ ▐█▌·██▌▐▀       │
+│     ▀  ▀ ·▀▀▀▀  ▀  ▀  ▀▀▀ ▀▀ █▪ ▀▀▀ ▀▀▀ ·       │
+│                                                 │
+│             Code • Build • Optimize             │
+│                                                 │
+╰─────────────────────────────────────────────────╯
