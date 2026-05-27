@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=30&duration=3000&pause=500&color=C27E5A&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=550&height=80&lines=THINH+VO;✦+Full-stack+✦;✦+AI+Builder+✦" alt="Typewriter" />
-</div>
 
 <div align="center">
   <img src="https://via.placeholder.com/140x140/C27E5A/FFFFFF?text=TV" width="140" style="border-radius: 50%; border: 3px solid #C27E5A; filter: sepia(30%); box-shadow: 0 5px 15px rgba(0,0,0,0.1);" />
