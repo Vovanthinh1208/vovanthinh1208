@@ -115,9 +115,18 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vovanthinh1208&theme=gruvbox&ring=C27E5A&fire=C27E5A&currStreakLabel=C27E5A&sideLabels=8B5E3C&dates=8B5E3C&background=FFF8F0" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vovanthinh1208&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vovanthinh1208&layout=compact&theme=gruvbox&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vovanthinh1208&theme=gruvbox&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vovanthinh1208&theme=gruvbox" />
+</p>
 
 ## 🔗 Connect
 
