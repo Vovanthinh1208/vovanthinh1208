@@ -114,12 +114,10 @@
 </p>
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vovanthinh1208&show_icons=true&bg_color=#FDF4E3&title_color=#8B5A2B&text_color=#5C4B3A&icon_color=#B86B2C&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vovanthinh1208&layout=compact&bg_color=#FDF4E3&title_color=#8B5A2B&text_color=#5C4B3A&icon_color=#B86B2C&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vovanthinh1208&show_icons=true&bg_color=FDF4E3&title_color=8B5A2B&text_color=5C4B3A&icon_color=B86B2C&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vovanthinh1208&layout=compact&bg_color=FDF4E3&title_color=8B5A2B&text_color=5C4B3A&icon_color=B86B2C&hide_border=true" />
 </p>
-
 ## 🔗 Connect
 
 <div align="center">
