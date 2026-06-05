@@ -116,14 +116,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vovanthinh1208&show_icons=true&bg_color=FFF8F0&title_color=C27E5A&text_color=8B5E3C&icon_color=C27E5A&border_color=E8D5C0" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vovanthinh1208&layout=compact&bg_color=FFF8F0&title_color=C27E5A&text_color=8B5E3C&border_color=E8D5C0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vovanthinh1208&show_icons=true&bg_color=FDF4E3&title_color=8B5A2B&text_color=5C4B3A&icon_color=B86B2C&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vovanthinh1208&layout=compact&bg_color=FDF4E3&title_color=8B5A2B&text_color=5C4B3A&icon_color=B86B2C&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vovanthinh1208&background=FFF8F0&ring=C27E5A&fire=C27E5A&currStreakLabel=C27E5A&sideNums=8B5E3C&currStreakNum=8B5E3C&sideLabels=8B5E3C&dates=A67B5B&border=E8D5C0" />
-</p>
 ## 🔗 Connect
 
 <div align="center">
