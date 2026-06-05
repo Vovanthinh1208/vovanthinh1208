@@ -115,8 +115,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.quatvn.xyz/api?username=Vovanthinh1208&show_icons=true&bg_color=FDF4E3&title_color=8B5A2B&text_color=5C4B3A&icon_color=B86B2C&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.quatvn.xyz/api/top-langs/?username=Vovanthinh1208&layout=compact&bg_color=FDF4E3&title_color=8B5A2B&text_color=5C4B3A&icon_color=B86B2C&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vovanthinh1208&background=FDF4E3&stroke=8B5A2B&ring=B86B2C&fire=B86B2C&currStreakNum=5C4B3A&sideNums=5C4B3A&currStreakLabel=5C4B3A&sideLabels=5C4B3A&dates=8B5A2B&hide_border=true" />
 </p>
 ## 🔗 Connect
 
